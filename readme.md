@@ -4,8 +4,8 @@
 I am a passionate and detail-oriented software developer and AI enthusiast currently working on my **final year project** on **Deforestation Monitoring Using Satellite Data**. My interests lie in **AI-driven solutions, geospatial data processing, and mobile application development**.
 
 ## 🎓 Education
-- **[Your University Name]**  
-  📍 **[Your Program]** – Final Year
+- **[Kwame Nkrumah University of Science and Technology]**  
+  📍 **Bsc. Computer Science** – Final Year
 
 ## 📌 Final Year Project: Deforestation Monitoring Using Satellite Data
 - **Objective:** Detect and predict deforestation patterns using **satellite imagery and AI**.
@@ -27,9 +27,9 @@ I am a passionate and detail-oriented software developer and AI enthusiast curre
 - **Tech Stack:** Flutter, Firebase, TensorFlow Lite
 
 ## 🔗 Connect With Me
-- **GitHub:** [Your GitHub Link]
+- **GitHub:** https://github.com/Young-klynique/Young_klynique
 - **LinkedIn:** [Your LinkedIn Link]
-- **Email:** [Your Email]
+- **Email:** appiahyoung2002@gmail.com 
 
 ---
 🚀 Open to collaborations and learning new technologies! Feel free to reach out! 🔥
